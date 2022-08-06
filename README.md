@@ -4,8 +4,11 @@
 ### kaggle
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/hutch1221/competition)
 
+- U.S. Patent Phrase to Phrase Matching(https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching)<br>
+  solution  : https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/discussion/332584<br>
+  repository: https://github.com/Taichicchi1221/us-patent-phrase-to-phrase-matching
 - Cassava Leaf Disease Classification(https://www.kaggle.com/competitions/cassava-leaf-disease-classification)<br>
-  solution: https://github.com/Taichicchi1221/cassava-leaf-disease-classification
+  repository: https://github.com/Taichicchi1221/cassava-leaf-disease-classification
 
 ### SIGNATE
 SIGNATE Advanced
