@@ -4,10 +4,18 @@
 ### kaggle
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/hutch1221/competition)
 
-- U.S. Patent Phrase to Phrase Matching(https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching)<br>
+- [American Express - Default Prediction](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching)<br>
+  result    : 73rd(Silver)<br>
+  solution  : https://www.kaggle.com/competitions/amex-default-prediction/discussion/347863<br>
+  repository: https://github.com/Taichicchi1221/amex-default-prediction
+
+- [U.S. Patent Phrase to Phrase Matching](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching)<br>
+  result    : 57th(Silver)<br>
   solution  : https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/discussion/332584<br>
   repository: https://github.com/Taichicchi1221/us-patent-phrase-to-phrase-matching
-- Cassava Leaf Disease Classification(https://www.kaggle.com/competitions/cassava-leaf-disease-classification)<br>
+
+- [Cassava Leaf Disease Classification](https://www.kaggle.com/competitions/cassava-leaf-disease-classification)<br>
+  result    : 304th(Bronze)<br>
   repository: https://github.com/Taichicchi1221/cassava-leaf-disease-classification
 
 ### SIGNATE
