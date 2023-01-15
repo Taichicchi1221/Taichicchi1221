@@ -13,16 +13,15 @@
   result    : 57th(Silver)<br>
   solution  : https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/discussion/332584<br>
   repository: https://github.com/Taichicchi1221/us-patent-phrase-to-phrase-matching
+ 
+- [Feedback Prize - English Language Learning](https://www.kaggle.com/competitions/feedback-prize-english-language-learning)<br>
+  result    : 207th(Bronze)<br>
+  solution  : https://www.kaggle.com/competitions/feedback-prize-english-language-learning/discussion/369796<br>
+  repository: https://github.com/Taichicchi1221/feedback-prize-english-language-learning
 
 - [Cassava Leaf Disease Classification](https://www.kaggle.com/competitions/cassava-leaf-disease-classification)<br>
   result    : 304th(Bronze)<br>
   repository: https://github.com/Taichicchi1221/cassava-leaf-disease-classification
-
-### SIGNATE
-SIGNATE Advanced
-
-- 医学論文の自動仕分けチャレンジ(https://signate.jp/competitions/471)<br>
-  solution: https://github.com/Taichicchi1221/signate_SRWS
 
 ## Competitive Programming
 [![Taichicchi](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FTaichicchi)](https://atcoder.jp/users/Taichicchi)
