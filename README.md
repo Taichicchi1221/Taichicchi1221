@@ -5,7 +5,7 @@
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/hutch1221/competition)
 
 - [American Express - Default Prediction](https://www.kaggle.com/competitions/amex-default-prediction)<br>
-  result    : 73rd(Silver)<br>
+  result    : 72nd(Silver)<br>
   solution  : https://www.kaggle.com/competitions/amex-default-prediction/discussion/347863<br>
   repository: https://github.com/Taichicchi1221/amex-default-prediction
 
