@@ -28,9 +28,9 @@
 
 ### Languages
 - Python3
-  - repotitory: https://github.com/Taichicchi1221/atcoder-python
+  - repository: https://github.com/Taichicchi1221/atcoder-python
 - C++
-  - repotitory: https://github.com/Taichicchi1221/atcoder-cpp
+  - repository: https://github.com/Taichicchi1221/atcoder-cpp
 
 
 
