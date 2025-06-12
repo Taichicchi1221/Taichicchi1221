@@ -2,7 +2,8 @@
 
 ## Machine Learning Competition
 ### kaggle
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/hutch1221/competition)
+![](./kaggle-badges/CompetitionsRank/plastic-black.svg)
+![](./kaggle-plates/Competitions/white.svg)
 
 - [American Express - Default Prediction](https://www.kaggle.com/competitions/amex-default-prediction)<br>
   result    : 72nd(Silver)<br>
