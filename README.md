@@ -41,6 +41,7 @@
 ##
 ### <img src="./img/zenn.svg" width="70px">
 <!-- BLOG-POST-LIST:START -->
+- [【FDUA】第2回 金融データ活用チャレンジ参加記（15th solution）](https://zenn.dev/ttaichicchi/articles/54727aeb9b401b)
 <!-- BLOG-POST-LIST:END -->
 
 
