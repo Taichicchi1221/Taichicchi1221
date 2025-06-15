@@ -38,6 +38,11 @@
 ### AtCoder Trophies(from: https://github.com/KATO-Hiro/AtCoderTrophies)<br>
 ![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=Taichicchi&theme=monokai)
 
+##
+### <img src="./img/zenn.svg" width="70px">
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 ##
 
