@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "17 11 * * *"
   workflow_dispatch:
 
 jobs:
@@ -25,12 +25,9 @@ jobs:
         run: npx puppeteer browsers install chrome@131.0.6778.85
 
       - name: Use Kaggle Badges Action
-        uses: spider-man-tm/kaggle-badges@v1.2.3
+        uses: spider-man-tm/kaggle-badges@v1.3.0
         with:
-          # ex. user_name: spidermandance
           user_name: hutch1221
-          # example of using GitHub Secrets
-          # user_name: ${{ secrets.KAGGLE_USERNAME }}
 
       - name: Commit and Push SVG files
         run: |
