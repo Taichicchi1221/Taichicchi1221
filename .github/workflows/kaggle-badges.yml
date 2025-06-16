@@ -29,18 +29,10 @@ jobs:
         with:
           user_name: hutch1221
 
-      - name: push kaggle-badges to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: kaggle-badges
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: push kaggle-plates to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: kaggle-plates
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and Push SVG files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add ./kaggle-badges/* ./kaggle-plates/*
+          git commit -m "Add generated SVG files" || echo "No changes to commit"
+          git push
