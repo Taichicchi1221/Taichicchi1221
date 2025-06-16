@@ -25,18 +25,9 @@
   repository: https://github.com/Taichicchi1221/cassava-leaf-disease-classification
 
 ## Competitive Programming
-[![Taichicchi](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FTaichicchi)](https://atcoder.jp/users/Taichicchi)
-
-### Languages
-- Python3
-  - repository: https://github.com/Taichicchi1221/atcoder-python
-- C++
-  - repository: https://github.com/Taichicchi1221/atcoder-cpp
-
-
-
-### AtCoder Trophies(from: https://github.com/KATO-Hiro/AtCoderTrophies)<br>
-![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=Taichicchi&theme=monokai)
+### AtCoder<br>
+[![Rating](https://badgen.org/img/atcoder/Taichicchi/rating/algorithm?style=plastic)](https://atcoder.jp/users/Taichicchi?contestType=algo)
+[![Rating(Heuristic)](https://badgen.org/img/atcoder/Taichicchi/rating/heuristic?style=plastic)](https://atcoder.jp/users/Taichicchi?contestType=heuristic)
 
 ##
 ### <img src="./img/zenn.svg" width="70px">
