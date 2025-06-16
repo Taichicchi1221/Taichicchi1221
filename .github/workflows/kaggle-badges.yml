@@ -29,10 +29,10 @@ jobs:
         with:
           user_name: hutch1221
 
-      - name: Commit and Push SVG files
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add ./kaggle-badges/* ./kaggle-plates/*
-          git commit -m "Add generated SVG files" || echo "No changes to commit"
-          git push
+      # - name: Commit and Push SVG files
+      #   run: |
+      #     git config --local user.email "action@github.com"
+      #     git config --local user.name "GitHub Action"
+      #     git add ./kaggle-badges/* ./kaggle-plates/*
+      #     git commit -m "Add generated SVG files" || echo "No changes to commit"
+      #     git push
